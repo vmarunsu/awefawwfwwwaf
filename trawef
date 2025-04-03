@@ -794,7 +794,7 @@ function library:Introduction()
     text.Font = Enum.Font.Code
     text.Text = "Hoopz"
     text.TextColor3 = Color3.fromRGB(124, 124, 124)
-    text.TextSize = 19.000
+    text.TextSize = 12.000
     text.TextTransparency = 1
     text.RichText = true
     
